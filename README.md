@@ -27,11 +27,14 @@ Stages of the Process:
 
 
 
+
+
 Results
 
 	 Machine Learning Model (1)
 
 		 The model has a balanced accuracy of 0.949
+		
 
 		 Healthy loan [0]
 
@@ -52,6 +55,7 @@ Results
 	 Machine Learning Model (2)
 
 		 This model has a balanced accuracy of 0.996
+		
 
 		 Healthy loan [0]
 
