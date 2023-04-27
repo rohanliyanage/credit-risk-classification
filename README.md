@@ -3,11 +3,15 @@
 
 
 Credit Risk Classification Report
+
 Overview of the Analysis
+
 The main objective of this analysis is to develop a logistic regression model to determine whether loans are healthy or high-risk. Minimising the risk of defaulting a loan is major concern and task for financial institutions such as banks, lending organisations and financial service companies.
 Machine Learning models help these organizations and institutions to identify debtors in advance and improve their capabilities to minimise the risk of defaulting a loan.
 These organisations increasingly relying on technology to predict which clients are more prone to stop honouring their debts. They use methodologies such as logistic regression model to predict the status of a relevant loan, the result of which will be compared with the actual loan status. The loan status will indicate whether a loan is a healthy or high-risk.
+
 Stages of the Process:
+
 1.	Read the data set from the CSV file into a Pandas dataframe.
 2.	Create the labels set (y) from the “loan_status” column, and then create the features (X) DataFrame from the remaining columns. Separate data into labels
 3.	Check the balance of labels variable using the value_function count
@@ -23,8 +27,8 @@ Stages of the Process:
 
 
 
-
 Results
+
 	Machine Learning Model (1)
 
 	The model has a balanced accuracy of 0.949
@@ -57,5 +61,6 @@ Results
 
 	
 Summary
+
 Machine Learning Model 2 has a higher recall for high-risk loans and a higher overall accuracy as compared to Model 1. Machine Learning Model 2 is recommended compared to the model 1 due to much higher recall for high-risk loan. Means this is more accurately classify all actual high-risk loans as high-risk. This is useful if we want to use the model to determine if a loan is potentially high-risk. 
 Still there could be incorrect predictions such as false positives and false negatives.
