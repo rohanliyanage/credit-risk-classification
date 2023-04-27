@@ -29,39 +29,41 @@ Stages of the Process:
 
 Results
 
-	Machine Learning Model (1)
+	 Machine Learning Model (1)
 
-	The model has a balanced accuracy of 0.949
+		 The model has a balanced accuracy of 0.949
 
-	Healthy loan [0]
+		 Healthy loan [0]
 
-	It has a precision of 1 for healthy loans, means that all loans classified by the model as healthy.
+		 It has a precision of 1 for healthy loans, means that all loans classified by the model as healthy.
 
-	Recall of 1 for healthy loans, that means for all are healthy loans.
-
-
-	High Risk loan [1]
-
-	This has a precision of 0.87, which means that for all loans classified by the model as high-risk.
-
-	The model has a recall of 0.90 for high-risk loan, means that for all high-risk loans, 90% of them are classified by the model as high-risk.
-
-	 Machine Learning Model (2)
-
-	This model has a balanced accuracy of 0.996
-
-	Healthy loan [0]
-
-	For this model too has a precision score of 1 for healthy loans, that means for all loans are healthy.
-
-	Like the previous model, this too has a recall of 1, which means all are healthy loans.
+		 Recall of 1 for healthy loans, that means for all are healthy loans.
 
 
-	High Risk Loan [1]
+		 High Risk loan [1]
 
-	This model has a precision score of 0.87, that means for all loans classified by the model as high-risk.
+		 This has a precision of 0.87, which means that for all loans classified by the model as high-risk.
 
-	This has a recall score of 1 for high-risk loan, means all are high-risk loans, and all of them are classified by the model as high-risk loans.
+		 The model has a recall of 0.90 for high-risk loan, means that for all high-risk loans, 90% of them are classified by the model as high-risk.
+
+
+
+	 Machine Learning Model (2)
+
+		 This model has a balanced accuracy of 0.996
+
+		 Healthy loan [0]
+
+		 For this model too has a precision score of 1 for healthy loans, that means for all loans are healthy.
+
+		 Like the previous model, this too has a recall of 1, which means all are healthy loans.
+
+
+		 High Risk Loan [1]
+
+		 This model has a precision score of 0.87, that means for all loans classified by the model as high-risk.
+
+		 This has a recall score of 1 for high-risk loan, means all are high-risk loans, and all of them are classified by the model as high-risk loans.
 
 	
 Summary
