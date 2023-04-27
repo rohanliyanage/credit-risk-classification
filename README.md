@@ -44,7 +44,8 @@ Results
 
 		 This has a precision of 0.87, which means that for all loans classified by the model as high-risk.
 
-		 The model has a recall of 0.90 for high-risk loan, means that for all high-risk loans, 90% of them are classified by the model as high-risk.
+		 The model has a recall of 0.90 for high-risk loan, means that for all high-risk loans, 90% of them 
+		are classified by the model as high-risk.
 
 
 
@@ -63,7 +64,8 @@ Results
 
 		 This model has a precision score of 0.87, that means for all loans classified by the model as high-risk.
 
-		 This has a recall score of 1 for high-risk loan, means all are high-risk loans, and all of them are classified by the model as high-risk loans.
+		 This has a recall score of 1 for high-risk loan, means all are high-risk loans, and all of them 
+		are classified by the model as high-risk loans.
 
 	
 Summary
