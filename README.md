@@ -2,7 +2,7 @@
  Challenge 20
 
 
-Credit Risk Classification Report
+Credit Risk Analysis Report
 
 Overview of the Analysis
 
